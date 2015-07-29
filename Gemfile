@@ -9,6 +9,7 @@ gem 'therubyrhino'
 gem 'jquery-rails'
 gem 'figaro'
 gem 'puma'
+gem 'sprockets', '~> 2.8'
 group :development do
   gem 'capistrano'
   gem 'capistrano3-puma'
